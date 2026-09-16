@@ -54,4 +54,12 @@ Basic Batch Scripting Command and How they work
     -Removes a directory.
     Example : rmdir OldFolder
     How it Work:
-    Deletes the specific folder named "OldFolder" from the current directory. Note that the folder must be empty to be removed.    
+    Deletes the specific folder named "OldFolder" from the current directory. Note that the folder must be empty to be removed.  
+
+11. del
+   - Deletes one or more files.
+   Example : del file.text
+   How it work :
+   Removes the specified file from the current directory. You can also use wildcards to delete multiple files at once.
+
+12. copy 
