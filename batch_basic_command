@@ -5,12 +5,12 @@ Basic Batch Scripting Command and How they work
    -   shows text on the screen.
   Example : echo hello!
   How it work :
-Display Hello! to the user.  
+  Display Hello! to the user.  
 
 2. @echo off
     - Hide command so the screen looks clean.
      How it Work:
-    Prevents CMD from showing each command before running it.
+     Prevents CMD from showing each command before running it.
 
 3. pause
     - Waits until the user presses a key to continue.
@@ -21,4 +21,8 @@ Display Hello! to the user.
     - Clear the CMD screen.
     How it work:
     Removes all current text on the screen.
-    
+
+5. rem / :::
+    - Comment or note for human.
+    How it work:
+    CMD ignore this line, allowing you to add explanations or notes in your script. 
