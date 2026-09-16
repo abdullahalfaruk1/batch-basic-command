@@ -67,3 +67,15 @@ Basic Batch Scripting Command and How they work
     Example : copy file.text D:\Backup\
     How it work:
     Copies the specific file to the specified destination folder. If the destination folder does not exist, it will prompt to create it.
+
+13. copy con
+   - Creates a new file and allows you to input text directly into it.
+   Example : copy con file.text
+   How it Work:
+   Creates a new file named 'File.text' and allow you to type text into it. press Ctrl+Z to save and exit.
+
+14. move
+    - Moves files from one location to another.
+    Example : move file.text D:\Backup\
+    How it work:
+    Transfers the specific file to the specified destination folder.
