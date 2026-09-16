@@ -63,3 +63,7 @@ Basic Batch Scripting Command and How they work
    Removes the specified file from the current directory. You can also use wildcards to delete multiple files at once.
 
 12. copy 
+    -Copies files from one location to another.
+    Example : copy file.text D:\Backup\
+    How it work:
+    Copies the specific file to the specified destination folder. If the destination folder does not exist, it will prompt to create it.
