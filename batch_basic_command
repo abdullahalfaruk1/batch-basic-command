@@ -37,3 +37,15 @@ Basic Batch Scripting Command and How they work
     - Shows the files and folders in the current directory.
     how it work:
     Text version of opening a folder in windows explorer, Lists all files .
+
+8. cd
+    - Change directory to different folder.
+    Example : cd C:\Users\username\documents
+    how it Work:
+    Changes the current working directory to the specified path.
+
+ 9. mkdir
+    - Creates a new Directory.
+    Example : mkdir NewFolder
+    How it work;
+    Creates a new folder named "NewFolder" in the current directory.Same as creating a folder in windows explorer.
