@@ -1,0 +1,8 @@
+Basic Batch Scripting Command and How they work
+
+
+1. echo 
+   -   shows text on the screen.
+  Example : echo hello!
+  How it work :
+Display Hello! to the user.  
