@@ -6,3 +6,7 @@ Basic Batch Scripting Command and How they work
   Example : echo hello!
   How it work :
 Display Hello! to the user.  
+
+2. @echo off
+    - Hide command so the screen looks clean. How it Work:
+    Prevents CMD from showing each command before running it.
