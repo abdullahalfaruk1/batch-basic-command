@@ -8,5 +8,11 @@ Basic Batch Scripting Command and How they work
 Display Hello! to the user.  
 
 2. @echo off
-    - Hide command so the screen looks clean. How it Work:
+    - Hide command so the screen looks clean.
+     How it Work:
     Prevents CMD from showing each command before running it.
+
+3. pause
+    - Waits until the user presses a key to continue.
+    How it Work:
+    Pauses the execution of the script and displays "Press any key to continue..."until the user presses a key.
