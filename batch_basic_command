@@ -2,7 +2,7 @@ Basic Batch Scripting Command and How they work
 
 
 1. echo 
-   -   shows text on the screen.
+   -   shows text on the screen.Its like Print Command.
   Example : echo hello!
   How it work :
   Display Hello! to the user.  
@@ -26,3 +26,14 @@ Basic Batch Scripting Command and How they work
     - Comment or note for human.
     How it work:
     CMD ignore this line, allowing you to add explanations or notes in your script. 
+
+6. start 
+    - Opens a program or file in a new window.
+     Example : start notepad.exe
+     how it work;
+     Launches the chosen application.
+
+7. dir
+    - Shows the files and folders in the current directory.
+    how it work:
+    Text version of opening a folder in windows explorer, Lists all files .
