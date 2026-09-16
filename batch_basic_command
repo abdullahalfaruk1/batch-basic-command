@@ -49,3 +49,9 @@ Basic Batch Scripting Command and How they work
     Example : mkdir NewFolder
     How it work;
     Creates a new folder named "NewFolder" in the current directory.Same as creating a folder in windows explorer.
+
+10. rmdir
+    -Removes a directory.
+    Example : rmdir OldFolder
+    How it Work:
+    Deletes the specific folder named "OldFolder" from the current directory. Note that the folder must be empty to be removed.    
