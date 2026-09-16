@@ -16,3 +16,9 @@ Display Hello! to the user.
     - Waits until the user presses a key to continue.
     How it Work:
     Pauses the execution of the script and displays "Press any key to continue..."until the user presses a key.
+
+4. cls
+    - Clear the CMD screen.
+    How it work:
+    Removes all current text on the screen.
+    
